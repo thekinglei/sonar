@@ -1,0 +1,2 @@
+看sonar的配置文件，mysql必须是bundle 包安装的，才支持
+下载一个mysql bundle包：https://downloads.mysql.com/archives/get/file/mysql-server_5.7.9-1ubuntu14.04_amd64.deb-bundle.tar
